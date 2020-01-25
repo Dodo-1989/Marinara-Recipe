@@ -1,4 +1,4 @@
-# Marinara Recipe
+# Mainara Recipe
 
 This is my family's secrete recpie. 
 
