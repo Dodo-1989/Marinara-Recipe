@@ -13,4 +13,22 @@
 
 marinaraSauce('Adam')
 
+//.........................................................................................
+function giveA (){
+    var students = ['Jason', 'Mohamed', 'Bambozel']
+        for ( let j = 0 ; j < students.length ; j++){
+        console.log(students[j] +" "+ "Grade A")
+    }
+}
+//..........................................................................................
+giveA()
 
+function tryYourLuck (chosenNum){
+  var random = (Math.floor((Math.random()*6)+1))
+  if(chosenNum === random){
+    console.log("YOu GOT IT BRO")
+}else{
+    console.log("TRY AGAIN, HAHAHAHA")
+}
+}
+tryYourLuck(2)
